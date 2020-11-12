@@ -1,0 +1,23 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightslategray;
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.socials{
+    justify-content: center;
+}
